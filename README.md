@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sai Anushka 
-- 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on MERN projects
+- 👀 I’m interested in Java
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 You can email me at madyanamanushka@gmail.com
 
 <!---
